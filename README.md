@@ -6,6 +6,23 @@
 
 Namasi G. Sankar, Georgios Miliotis, and Simon Caton. Scalable quantum optimisation using HADOF: Hamiltonian auto-decomposition optimisation framework. In Proceedings of the 3rd International Workshop on AI for Quantum and Quantum for AI (AIQxQIA 2025), co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025), volume 4153 of CEUR Workshop Proceedings, pages 63–72, Bologna, Italy, 2025. CEUR-WS.org.
 
+**BibTex:**
+
+@inproceedings{Sankar2025HADOF,
+  author    = {Namasi G. Sankar and Georgios Miliotis and Simon Caton},
+  title     = {Scalable Quantum Optimisation using HADOF: Hamiltonian Auto-Decomposition Optimisation Framework},
+  booktitle = {Proceedings of the 3rd International Workshop on AI for Quantum and Quantum for AI (AIQxQIA 2025), co-located with the 28th European Conference on Artificial Intelligence (ECAI 2025)},
+  series    = {CEUR Workshop Proceedings},
+  volume    = {4153},
+  pages     = {63--72},
+  year      = {2025},
+  publisher = {CEUR-WS.org},
+  address   = {Bologna, Italy},
+  url       = {https://ceur-ws.org/Vol-4153/paper9.pdf}
+}
+
+**For more information on my work:** [My Website](https://namasi-phd.github.io)
+
 **Introduction**
 
 QUBO is a general framework for many NP-hard combinatorial optimisation problems and maps naturally to quantum Hamiltonians, making it suitable for both quantum and classical optimisation methods. While quantum algorithms such as QAOA, QA, GAS, and FALQON may offer advantages for optimisation, current NISQ hardware is too limited for many practical QUBO instances.
